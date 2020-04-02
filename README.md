@@ -18,8 +18,8 @@ The main issues that need to be considered are :
 
 If you want to contribute you can fork the repository and submit a pull request. See https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
 
-You can also email emyr.james@crg.eu to be added as a contributor - just send me your github ID and a brief intro to yourself and we can add you.
+You can also email Covid19testlab@crg.eu to be added as a contributor - just send us your github ID and a brief intro to yourself and we can add you.
 
 The README uses Markdown. Here is a markdown cheat sheet : https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
 
-Contributions that would be welcome are any documentation (ideally in markdown linked off the readme) that expand upon the items above. Source code for LIMS systems, database schemas, slack chat robots etc. etc. Basically anything you think may be useful can be considered. If you have the information but are not confident in adding it to github you can email it to the above email address and we can add it ourselves.
+Contributions that would be welcome are any documentation (ideally in markdown linked off the readme) that expand upon the items above. Source code for LIMS systems, database schemas, slack chat robots etc. etc. Basically anything you think may be useful can be considered. If you have the information but are not confident in adding it to github you can email it to Covid19testlab@crg.eu and we can add it ourselves.
