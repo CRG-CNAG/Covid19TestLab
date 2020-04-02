@@ -13,3 +13,13 @@ The main issues that need to be considered are :
 * Cross-contamination : Given that there are a large number of samples floating about, protocols for avoiding cross contamination invalidating test results are needed.
 
 * 'External Interface' : How samples come in to the system - reception protocols, and how results are collated and returned back upstream.
+
+## How to Contribute
+
+If you want to contribute you can fork the repository and submit a pull request. See https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
+
+You can also email emyr.james@crg.eu to be added as a contributor - just send me your github ID and a brief intro to yourself and we can add you.
+
+The README uses Markdown. Here is a markdown cheat sheet : https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
+
+Contributions that would be welcome are any documentation (ideally in markdown linked off the readme) that expand upon the items above. Source code for LIMS systems, database schemas, slack chat robots etc. etc. Basically anything you think may be useful can be considered. If you have the information but are not confident in adding it to github you can email it to the above email address and we can add it ourselves.
