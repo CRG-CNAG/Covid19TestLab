@@ -3,7 +3,7 @@ The aim of this repository is to act as a central location for a set of guidelin
 
 Any lab working on doing this is welcome and encouraged to join in here so we can 'open source' how to do this. If we can all learn from each other we will be able to improve the way we do things and act as a source of information to all.
 
-= The Problem =
+## The Problem
 The main issues that need to be considered are :
 
 * Sample Management : It's very important to not lose track of samples and guarantee that results are assigned to the correct sample. All samples that enter the production line need to be processed as sequentially as possible to get results quickly and to ensure that no samples are missed or delayed along the way.
